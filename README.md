@@ -14,6 +14,9 @@
 
 https://bookbom.shop/
 
+# Organization 저장소
+https://github.com/nhnacademy-be5-bom
+
 ---
 ## 맡은 역할
 ## [정현도](https://github.com/hyeond0)
