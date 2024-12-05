@@ -10,10 +10,6 @@
 
 -----
 
-# 홈페이지
-
-https://bookbom.shop/
-
 # Organization 저장소
 https://github.com/nhnacademy-be5-bom
 
