@@ -83,7 +83,6 @@ https://github.com/nhnacademy-be5-bom
 ![2024-05-10 15_24_38 004](https://github.com/nhnacademy-be5-bom/.github/assets/67140032/9aa9a11d-52c0-4c8f-a873-ea4f124846f4)
 
 ## ERD
-https://www.erdcloud.com/d/iWzdEjz2dMQyfa9Mc
 ![book-bom-erd](https://github.com/nhnacademy-be5-bom/.github/assets/132794328/ce94f6dc-8a01-4b75-8b7c-3aa5c5c63ff2)
 
 ## 개발 환경
